@@ -1,0 +1,268 @@
+San Andreas Penal Code (SACP)
+This is a fictional penal code designed for a FiveM roleplaying environment. All fines are in in-game currency and jail time is measured in seconds, with a maximum of 1000 seconds.
+
+Offenses Against Persons
+SACP 101 - Murder: Unlawfully and intentionally causing the death of another person with malice aforethought.
+Description: This charge covers intentional killings with premeditation or extreme recklessness.
+Fine: $50,000 - $100,000
+Jail Time: 800 - 1000 seconds
+
+SACP 102 - Manslaughter: Unlawfully causing the death of another person without malice aforethought.
+Description: Covers killings in the heat of passion or due to criminal negligence.
+Fine: $25,000 - $50,000
+Jail Time: 400 - 800 seconds
+
+SACP 103 - Assault with a Deadly Weapon: Unlawfully attacking another person with a weapon or instrument capable of causing serious bodily harm.
+Description: Includes using firearms, knives, blunt objects, or vehicles as weapons.
+Fine: $10,000 - $25,000
+Jail Time: 200 - 600 seconds
+
+SACP 104 - Assault: Intentionally or recklessly causing physical harm to another person.
+Description: Covers physical altercations, fights, and unwanted physical contact.
+Fine: $5,000 - $10,000
+Jail Time: 100 - 300 seconds
+
+SACP 105 - Battery: Willfully and unlawfully using force or violence upon another person.
+Description: Similar to assault but emphasizes the actual use of force.
+Fine: $2,500 - $5,000
+Jail Time: 60 - 180 seconds
+
+SACP 106 - Kidnapping: Unlawfully seizing, confining, or carrying away another person by force or threat.
+Description: Involves restricting a person's freedom of movement against their will.
+Fine: $50,000 - $100,000
+Jail Time: 800 - 1000 seconds
+
+SACP 107 - False Imprisonment: Unlawfully restraining or confining another person without their consent.
+Description: Differs from kidnapping in that it doesn't involve movement to another location.
+Fine: $10,000 - $25,000
+Jail Time: 400 - 800 seconds
+
+Offenses Against Property
+
+SACP 201 - Robbery: Feloniously taking property from another person by force or fear.
+Description: Involves theft with the use of force or intimidation.
+Fine: $20,000 - $40,000
+Jail Time: 600 - 1000 seconds
+
+SACP 202 - Burglary: Unlawfully entering a structure with the intent to commit a crime.
+Description: Covers breaking and entering with the intent to steal or commit another offense.
+Fine: $10,000 - $20,000
+Jail Time: 400 - 800 seconds
+
+SACP 203 - Grand Theft: Stealing property valued over $5,000.
+Description: Applies to theft of high-value items like vehicles, jewelry, or large sums of cash.
+Fine: $5,000 - $10,000
+Jail Time: 200 - 400 seconds
+
+SACP 204 - Petty Theft: Stealing property valued under $5,000.
+Description: Covers shoplifting, pickpocketing, and other minor thefts.
+Fine: $1,000 - $5,000
+Jail Time: 60 - 200 seconds
+
+SACP 205 - Vandalism: Intentionally damaging or destroying property belonging to another.
+Description: Includes graffiti, property damage, and destruction of public or private property.
+Fine: Based on the value of the damage
+Jail Time: 60 - 400 seconds (depending on the severity of the damage)
+
+SACP 206 - Arson: Willfully and maliciously setting fire to property.
+Description: Covers intentionally setting fires to buildings, vehicles, or other property.
+Fine: $25,000 - $50,000
+Jail Time: 600 - 1000 seconds
+Vehicle Code Violations
+
+SACP 301 - Reckless Driving: Driving a vehicle with willful or wanton disregard for the safety of persons or property.
+Description: Includes speeding, weaving through traffic, and other dangerous driving behaviors.
+Fine: $5,000 - $10,000
+Jail Time: 120 - 240 seconds
+
+SACP 302 - Driving Under the Influence (DUI): Operating a vehicle while impaired by alcohol or drugs.
+Description: Includes driving with a blood alcohol content (BAC) above the legal limit or under the influence of drugs.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+SACP 303 - Hit and Run: Leaving the scene of an accident that caused property damage or injury.
+Description: Failing to stop and provide information after being involved in a collision.
+Fine: $5,000 - $10,000
+Jail Time: 120 - 240 seconds
+
+SACP 304 - Evading Police: Willfully fleeing or attempting to elude a peace officer.
+Description: Failing to stop when signaled by a police officer and actively trying to escape.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+SACP 305 - Vehicle Theft: Stealing or taking a vehicle without the owner's consent.
+Description: Unlawfully taking possession of a vehicle with the intent to permanently deprive the owner.
+Fine: $10,000 - $20,000
+Jail Time: 400 - 800 seconds
+
+SACP 306 - Speeding (1-15 mph over): Exceeding the posted speed limit by 1 to 15 miles per hour.
+Description: A common traffic violation for driving slightly above the speed limit.
+Fine: $1,000 - $2,500
+Jail Time: 0 - 60 seconds (usually a warning or fine only)
+
+SACP 307 - Speeding (16-25 mph over): Exceeding the posted speed limit by 16 to 25 miles per hour.
+Description: More serious speeding violation, indicating a greater disregard for traffic safety.
+Fine: $2,500 - $5,000
+Jail Time: 60 - 120 seconds
+
+SACP 308 - Speeding (26+ mph over): Exceeding the posted speed limit by more than 25 miles per hour.
+Description: A major speeding offense, often considered reckless driving.
+Fine: $5,000 - $10,000
+Jail Time: 120 - 240 seconds
+
+SACP 309 - Speeding in a School Zone: Exceeding the posted speed limit in a designated school zone.
+Description: A serious offense due to the increased risk to children's safety.
+Fine: $5,000 - $10,000
+Jail Time: 120 - 240 seconds
+
+SACP 310 - Street Racing: Engaging in an unauthorized speed contest on public roads.
+Description: Illegal racing with other vehicles, posing a significant danger to participants and the public.
+Fine: $100 - $20,000 * Jail Time: 240 - 480 seconds (potential vehicle impoundment)
+Weapons Offenses
+
+SACP 401 - Possession of a Firearm: Unlawfully possessing a firearm without a valid license or permit.
+Description: Carrying a firearm without proper authorization or in prohibited areas.
+Fine: $5,000 - $10,000
+Jail Time: 200 - 400 seconds
+
+SACP 402 - Brandishing a Weapon: Drawing or exhibiting a firearm or other weapon in a threatening manner.
+Description: Displaying a weapon in a way that causes fear or alarm in others.
+Fine: $2,500 - $5,000
+Jail Time: 120 - 240 seconds
+
+SACP 403 - Assault with a Firearm: Using a firearm to assault or threaten another person.
+Description: Pointing a firearm at someone or firing it in a threatening manner.
+Fine: $10,000 - $20,000
+Jail Time: 400 - 800 seconds
+
+Drug Offenses
+
+SACP 501 - Possession of a Controlled Substance: Unlawfully possessing a controlled substance without a prescription.
+Description: Includes possession of drugs like cocaine, heroin, methamphetamine, or illegal prescription medications.
+Fine: $2,500 - $5,000
+Jail Time: 120 - 240 seconds
+
+SACP 502 - Possession with Intent to Distribute: Possessing a controlled substance with the intent to sell or distribute it.
+Description: Involves possession of larger quantities of drugs, packaging materials, or other evidence of intent to sell.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+SACP 503 - Manufacturing a Controlled Substance: Producing, cultivating, or synthesizing illegal drugs.
+Description: Covers operating drug labs, growing marijuana, or creating synthetic drugs.
+Fine: $25,000 - $50,000
+Jail Time: 480 - 800 seconds
+
+SACP 504 - Trafficking of a Controlled Substance: Transporting or smuggling illegal drugs across borders or in large quantities.
+Description: Involves moving drugs for distribution or sale, often associated with organized crime.
+Fine: $50,000 - $100,000
+Jail Time: 800 - 1000 seconds
+
+SACP 505 - Drug Paraphernalia: Possessing equipment or materials used for consuming or producing drugs.
+Description: Includes items like pipes, bongs, syringes, scales, or packaging materials.
+Fine: $1,000 - $2,500
+Jail Time: 60 - 120 seconds (often combined with other drug charges)
+
+SACP 506 - Public Intoxication: Being under the influence of drugs in a public place to the point of being a danger to oneself or others.
+Description: Covers individuals who are visibly impaired by drugs and causing a disturbance or posing a safety risk.
+Fine: $1,000 - $2,500
+Jail Time: 60 - 120 seconds (may involve mandatory detoxification)
+
+SACP 507 - Driving Under the Influence of Drugs (DUID): Operating a vehicle while impaired by drugs.
+Description: Similar to DUI, but specifically for drug impairment, often requiring a blood test for evidence.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+SACP 508 - Possession of Marijuana: Unlawfully possessing marijuana, even in small amounts.
+Description: While marijuana laws may be more lenient in some jurisdictions, this charge covers illegal possession.
+Fine: $1,000 - $2,500
+Jail Time: 0 - 60 seconds (may be a fine-only offense or decriminalized)
+
+SACP 509 - Cultivation of Marijuana: Illegally growing or cultivating marijuana plants.
+Description: Covers growing marijuana without the proper licenses or permits.
+Fine: $5,000 - $10,000
+Jail Time: 120 - 240 seconds
+
+SACP 510 - Sale of Marijuana: Illegally selling or distributing marijuana.
+Description: Covers the unauthorized sale of marijuana, even in jurisdictions where it may be legal for personal use.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+Offenses Against Public Order
+
+SACP 601 - Disorderly Conduct: Engaging in behavior that disturbs the peace or creates a public nuisance.
+Description: Includes public intoxication, loud and unreasonable noise, fighting, or using offensive language.
+Fine: $1,000 - $2,500
+Jail Time: 60 - 120 seconds
+
+SACP 602 - Obstructing a Peace Officer: Interfering with a police officer's duties.
+Description: Includes resisting arrest, refusing to comply with lawful orders, or hindering an investigation.
+Fine: $2,500 - $5,000
+Jail Time: 120 - 240 seconds
+
+SACP 603 - Resisting Arrest: Physically resisting a lawful arrest.
+Description: Actively fighting or attempting to flee from a police officer during an arrest.
+Fine: $5,000 - $10,000
+Jail Time: 240 - 480 seconds
+
+SACP 604 - Bribery: Offering or giving something of value to a public official to influence their actions.
+Description: Attempting to corrupt a government official, police officer, or judge.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+SACP 605 - Perjury: Lying under oath in a court of law.
+Description: Making false statements while sworn to tell the truth, obstructing justice.
+Fine: $5,000 - $10,000
+Jail Time: 120 - 240 seconds
+
+SACP 606 - Contempt of Court: Disobeying or disrespecting a court order or judge.
+Description: Includes refusing to follow court orders, disrupting court proceedings, or showing disrespect to the judge.
+Fine: $2,500 - $5,000
+Jail Time: 120 - 240 seconds
+
+SACP 607 - Escape from Custody: Fleeing or attempting to flee from lawful detention or imprisonment.
+Description: Breaking out of jail, escaping police custody, or violating parole or probation.
+Fine: $10,000 - $20,000
+Jail Time: 480 - 800 seconds (additional charges for original offense)
+
+SACP 608 - False Report: Making a false report to law enforcement authorities.
+Description: Intentionally providing false information to the police, wasting their time and resources.
+Fine: $2,500 - $5,000
+Jail Time: 120 - 240 seconds
+
+Offenses Involving Corruption and Organized Crime
+
+SACP 701 - Racketeering: Engaging in a pattern of illegal activity as part of an organized crime group.
+Description: Covers activities like extortion, money laundering, illegal gambling, and drug trafficking conducted by a criminal organization.
+Fine: $50,000 - $100,000
+Jail Time: 800 - 1000 seconds
+
+SACP 702 - Money Laundering: Concealing the origins of illegally obtained money.
+Description: "Cleaning" dirty money through legitimate businesses or financial transactions to make it appear legal.
+Fine: $25,000 - $50,000
+Jail Time: 480 - 800 seconds
+
+SACP 703 - Extortion: Obtaining property or services from someone through force, threats, or intimidation.
+Description: Blackmail, protection rackets, or forcing someone to pay for "protection."
+Fine: $20,000 - $40,000
+Jail Time: 360 - 720 seconds
+
+SACP 704 - Human Trafficking: Exploiting people for forced labor or sexual services.
+Description: A serious crime involving the control and exploitation of individuals for profit.
+Fine: $50,000 - $100,000
+Jail Time: 800 - 1000 seconds
+
+SACP 705 - Witness Tampering: Interfering with a witness in a legal case.
+Description: Includes threatening, bribing, or intimidating a witness to prevent them from testifying.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+SACP 706 - Obstruction of Justice: Interfering with the administration of justice.
+Description: Includes tampering with evidence, lying to investigators, or hindering a legal proceeding.
+Fine: $10,000 - $20,000
+Jail Time: 240 - 480 seconds
+
+This section of the penal code deals with offenses that undermine the legal system and exploit others for profit. They are often associated with organized crime and can have severe consequences.
+
+
+----------------------------------------------------------------------------------------------------------------------------
+This is only the beginning. You can take this and mold it however you see fit. It is by no means an end-all-be-all. It’s just a starting ground for you to create an awesome roleplay experience for your community. 🙂
